@@ -1,0 +1,29 @@
+<code_scheme name="MyCodestyle">
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="package1" withSubpackages="true" static="false" />
+      <package name="package2" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="true" />
+    </value>
+  </option>
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <GroovyCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <package name="" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="package1" withSubpackages="true" static="false" />
+        <package name="package2" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="true" />
+      </value>
+    </option>
+  </GroovyCodeStyleSettings>
+</code_scheme>
