@@ -1,0 +1,4 @@
+package incrementalCompilationBug
+
+class Hospital {
+}
