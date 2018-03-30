@@ -8,6 +8,6 @@ import org.junit.platform.commons.annotation.Testable
 
 @Target(ElementType.ANNOTATION_TYPE)
 @Retention(RetentionPolicy.RUNTIME)
-@Testable
+//@Testable //Uncomment to show that IntelliJ does not show error although it is one in Groovy < 2.5
 @interface MyTestable {
 }

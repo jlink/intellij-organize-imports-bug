@@ -24,6 +24,6 @@ repositories {
 
 dependencies {
 	compile "org.junit.jupiter:junit-jupiter-engine:5.0.3"
-	compile "org.codehaus.groovy:groovy-all:2.4.14"
+	compile "org.codehaus.groovy:groovy-all:2.4.15"
 	compile "org.springframework.boot:spring-boot-starter-data-jpa"
 }
